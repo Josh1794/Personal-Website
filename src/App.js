@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ReactGA from "react-ga";
 import $ from "jquery";
 import "./App.css";
-import Header from "./Components/Header";
+import Header from "./Components/navBar";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Contact from "./Components/Contact";

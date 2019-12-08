@@ -2,7 +2,7 @@
   "main": {
     "name": "Joshua Grossman",
     "occupation": "Fullstack Software Engineer",
-    "description": "I am a Fullstack Software Engineer with a background in corporate sustainability and sustainable finance. I try to create well designed and intuitive products to help make people's lives better and easier. ",
+    "description": "I am a Fullstack Software Engineer with a background in corporate sustainability and sustainable finance. I try to create well designed and intuitive products to help make people's lives better and easier.",
     "image": "profilepic.jpg",
     "bio": "Fullstack Software Engineer with a background in corporate sustainability and sustainable finance. Creating well designed and intuitive products to help make people's lives better and easier. I enjoy coding in React and React Native with a passion for UI/UX engineering and design.",
     "contactmessage": "Contact Me",
@@ -42,7 +42,7 @@
       {
         "title": "Yellow Brick Road",
         "category": "AR Tour Guide App",
-        "image": "YBR.jpg",
+        "image": "ybr.jpg",
         "url": "https://github.com/Thunkaroos/AR-Guides"
       }
     ]
