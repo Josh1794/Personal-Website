@@ -27,6 +27,10 @@ class Header extends Component {
           </a>
 
           <ul id="nav" className="nav">
+            {/* Adding Name to left side of navBar */}
+            {/* <li>
+              <text>Joshua Grossman</text>
+            </li> */}
             <li className="current">
               <a className="smoothscroll" href="#home">
                 Home
