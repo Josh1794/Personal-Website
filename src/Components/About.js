@@ -8,6 +8,8 @@ class About extends Component {
       var bio = this.props.data.bio;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
+      var tech = this.props.data.tech;
+      var techList = this.props.data.techList;
       var resumeDownload = this.props.data.resumedownload;
     }
 
@@ -23,8 +25,18 @@ class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-
             <p>{bio}</p>
+            <text>{tech}</text>
+            <ul>
+              <li>- JavaScript (ES6+)</li>
+              <li>- ReactJS</li>
+              <li>- Redux.js</li>
+              <li>- Node.js</li>
+              <li>- Express.js</li>
+              <li>- Sequelize.js</li>
+              <li>- PostgreSQL</li>
+              <li>- React-Native</li>
+            </ul>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
