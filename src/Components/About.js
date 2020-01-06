@@ -25,7 +25,7 @@ class About extends Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>{bio}</p>
-            <text>{tech}</text>
+            <p>{tech}</p>
             <ul>
               <li>- JavaScript (ES6+)</li>
               <li>- ReactJS</li>
