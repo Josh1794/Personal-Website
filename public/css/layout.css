@@ -186,6 +186,8 @@ ul#nav li a {
   text-decoration: none;
   text-align: center;
   color: #fff;
+  position: inherit;
+  right: 75px;
 
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
@@ -195,18 +197,20 @@ ul#nav li a {
 }
 
 /* Trying to make Name move to left */
-/* ul#nav li text {
+ul#nav li text {
   /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
-/* display: inline-block;
+  display: inline-block;
   padding: 8px 13px;
   text-align: left;
+  position: inherit;
+  right: 600px;
 
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
   -o-transition: color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out; */
-/* } */
+  transition: color 0.2s ease-in-out;
+}
 
 ul#nav li a:active {
   background-color: transparent !important;
