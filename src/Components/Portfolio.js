@@ -29,7 +29,7 @@ class Portfolio extends Component {
     return (
       <section id="portfolio">
         <div className="row">
-          <div className="twelve columns collapsed">
+          <div className="twelve-columns-collapsed">
             <h1>Check Out Some of My Projects</h1>
             <h2>To learn more visit my github profile</h2>
 
