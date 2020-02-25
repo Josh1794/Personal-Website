@@ -16,7 +16,7 @@ class Footer extends Component {
 
     return (
       <footer>
-        <h5>Find me here:</h5>
+        <h5>Find me here</h5>
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>
