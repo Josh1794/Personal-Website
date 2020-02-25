@@ -19,11 +19,6 @@
         "className": "fa fa-linkedin-square"
       },
       {
-        "name": "twitter",
-        "url": "https://twitter.com/Coding_Ginger",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "github",
         "url": "http://github.com/Josh1794",
         "className": "fa fa-github"
@@ -32,6 +27,11 @@
         "name": "stackoverflow",
         "url": "https://stackoverflow.com/users/12751027/josh?tab=profile",
         "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Coding_Ginger",
+        "className": "fa fa-twitter"
       }
     ]
   },
