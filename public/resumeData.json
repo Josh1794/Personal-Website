@@ -18,7 +18,11 @@
         "url": "https://www.linkedin.com/in/joshua-grossman17/",
         "className": "fa fa-linkedin-square"
       },
-
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Coding_Ginger",
+        "className": "fa fa-twitter"
+      },
       {
         "name": "github",
         "url": "http://github.com/Josh1794",
