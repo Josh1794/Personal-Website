@@ -14,6 +14,7 @@ class About extends Component {
 
     return (
       <section id="about">
+        <head>About Joshua Grossman</head>
         <div className="row">
           <div className="three columns">
             <img

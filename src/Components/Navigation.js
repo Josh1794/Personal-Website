@@ -18,6 +18,7 @@ class Navigation extends Component {
 
     return (
       <header id="home">
+        {/* NAVBAR */}
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
@@ -44,10 +45,11 @@ class Navigation extends Component {
             </li>
           </ul>
         </nav>
-
+        {/* HEADER */}
+        <head>Joshua Grossman</head>
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">
+            <h1 className="responsive-headline" title>
               <svg
                 id="title"
                 // width="75vw"
@@ -142,6 +144,7 @@ class Navigation extends Component {
                 />
               </svg>
             </h1>
+            <hr></hr>
             <h3>{description}</h3>
             <hr />
             <ul className="social">{networks}</ul>
