@@ -60,6 +60,12 @@
         "category": "Your personal recipe books online",
         "image": "5888ca78bc2fc2ef3a1860da.png",
         "url": "https://github.com/Josh1794/recipeBook"
+      },
+      {
+        "title": "Sensors App",
+        "category": "A mobile app that explores the different sensors in a smartphone",
+        "image": "E57_I.jpg",
+        "url": "https://github.com/Josh1794/Sensor-app"
       }
     ]
   }
